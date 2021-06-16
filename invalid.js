@@ -67,6 +67,11 @@ if (notFound) {
   // Use `message`
 }
 
+if (otherNotFound) {
+  message2 = 'not found';
+  // use message2
+}
+
 let count;
 console.log(count); // => undefined
 
