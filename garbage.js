@@ -5,7 +5,7 @@ garbage++;
 
 const garbage = 2; //twice defined?
 
-sql = 3; // can't reassign a const variable
+//sql = 3; // can't reassign a const variable
 
 console.log(garbage);
 
